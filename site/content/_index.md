@@ -1,10 +1,10 @@
 ---
 title: "tavtai morul nuu "
 subtitle: Support sustainable farming while enjoying a cup
-image: https://github.com/AttentionNJ/one-click-hugo-cms.git
+image: https://www.buyin.pro/wp-content/uploads/2016/06/Start.jpg
 blurb:
     heading: sain bnuu?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "AUTOMATIC, TSAHILGAAN, HOLNBOO DOHI."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
